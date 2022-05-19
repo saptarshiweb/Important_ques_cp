@@ -1,5 +1,5 @@
 
-//link - https://www.codechef.com/START39B/problems/MINBLOCK
+//link - https://www.codechef.com/START39B/problems/MINBLOCK;
 
 #include<bits/stdc++.h>
 #define ll long long int
